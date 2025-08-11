@@ -1,6 +1,6 @@
 https://cookieconsentproject.netlify.app/
 
-This is a Javascript oriented cookie consent project focusing on the following skills...
+This is a Javascript oriented cookie consent project. When loading a main site page, a cookie popup appears with some fun and tricky interfaces for the user. This project focused on the following skills...
 
 - setTimeout functions
 - element.style CSS
