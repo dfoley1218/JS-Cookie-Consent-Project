@@ -1,6 +1,4 @@
 {
-  "name": "Scrim-s05m14slki",
-  "description": "https://scrimba.com/s05m14slki/head",
   "scripts": {
     "start": "vite",
     "dev": "vite",
