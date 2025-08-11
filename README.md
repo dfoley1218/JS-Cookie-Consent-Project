@@ -1,4 +1,5 @@
 https://cookieconsentproject.netlify.app/
+
 This is a Javascript oriented cookie consent project focusing on the following skills...
 
 - setTimeout functions
